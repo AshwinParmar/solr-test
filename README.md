@@ -198,3 +198,7 @@ Possible issues:
 
 Check constants and see how they were used export.php.
 (for example it was defined DBPASS you used DB-PASSWORD)
+
+http://www.webdesignermag.co.uk/tutorials/how-to-add-search-with-solr/
+https://github.com/basdenooijer/solarium
+http://localhost/solr-test/www/vendor/solarium/solarium/examples/1.1-check-solarium-and-ping.php
